@@ -1,0 +1,1 @@
+export { SuccessfulEntry } from './SuccessfulEntry';

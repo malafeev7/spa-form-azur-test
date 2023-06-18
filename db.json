@@ -1,0 +1,167 @@
+{
+  "dates": [
+    {
+      "id": 1,
+      "date": "2023-06-19",
+      "times": [
+        {
+          "full": "10:30 to 11:00 am",
+          "half": [
+            "10:30 to 10:45 am",
+            "10:45 to 11:00 am"
+          ]
+        },
+        {
+          "full": "11:30 to 12:00 am",
+          "half": [
+            "11:30 to 11:45 am",
+            "11:45 to 12:00 am"
+          ]
+        },
+        {
+          "full": "12:30 to 13:00 pm",
+          "half": [
+            "12:30 to 12:45 pm",
+            "12:45 to 13:00 pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2023-06-20",
+      "times": [
+        {
+          "full": "10:30 to 11:00 am",
+          "half": [
+            "10:30 to 10:45 am",
+            "10:45 to 11:00 am"
+          ]
+        },
+        {
+          "full": "11:30 to 12:00 am",
+          "half": [
+            "11:30 to 11:45 am",
+            "11:45 to 12:00 am"
+          ]
+        },
+        {
+          "full": "12:30 to 13:00 pm",
+          "half": [
+            "12:30 to 12:45 pm",
+            "12:45 to 13:00 pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2023-06-22",
+      "times": [
+        {
+          "full": "10:30 to 11:00 am",
+          "half": [
+            "10:30 to 10:45 am",
+            "10:45 to 11:00 am"
+          ]
+        },
+        {
+          "full": "11:30 to 12:00 am",
+          "half": [
+            "11:30 to 11:45 am"
+          ]
+        },
+        {
+          "full": "12:30 to 13:00 pm",
+          "half": [
+            "12:30 to 12:45 pm",
+            "12:45 to 13:00 pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2023-06-23",
+      "times": [
+        {
+          "full": "09:00 to 09:30 am",
+          "half": [
+            "09:00 to 09:15 am",
+            "09:15 to 09:30 am"
+          ]
+        },
+        {
+          "full": "11:30 to 12:00 am",
+          "half": [
+            "11:30 to 11:45 am"
+          ]
+        },
+        {
+          "full": "12:30 to 13:00 pm",
+          "half": [
+            "12:30 to 12:45 pm",
+            "12:45 to 13:00 pm"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2023-06-27",
+      "times": [
+        {
+          "full": "10:30 to 11:00 am",
+          "half": [
+            "10:30 to 10:45 am",
+            "10:45 to 11:00 am"
+          ]
+        },
+        {
+          "full": "11:30 to 12:00 am",
+          "half": [
+            "11:30 to 11:45 am"
+          ]
+        },
+        {
+          "full": "12:30 to 13:00 pm",
+          "half": [
+            "12:30 to 12:45 pm"
+          ]
+        }
+      ]
+    }
+  ],
+  "records": [
+    {
+      "name": "TEST",
+      "email": "test@test.com",
+      "combinedNumberPhone": "3577017823212",
+      "startDate": "2023-06-06T18:00:00.000Z",
+      "bornInWeek": 20,
+      "weight": "1",
+      "weightUnit": "kg",
+      "height": "40",
+      "heightUnit": "sm",
+      "selectedDate": "2023-06-21T18:00:00.000Z",
+      "selectedHalfSlot": "11:30 to 11:45 am",
+      "selectedTypeCall": "audio",
+      "id": 2
+    },
+    {
+      "name": "Andrey",
+      "email": "malafeyev7@gmail.com",
+      "combinedNumberPhone": "77714444458",
+      "startDate": "2022-11-30T18:00:00.000Z",
+      "bornInWeek": "",
+      "weight": "12",
+      "weightUnit": "kg",
+      "height": "34",
+      "heightUnit": "sm",
+      "selectedDate": "2023-06-22T18:00:00.000Z",
+      "selectedHalfSlot": "09:15 to 09:30 am",
+      "selectedTypeCall": "video",
+      "id": 3
+    }
+  ]
+}
